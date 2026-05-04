@@ -24,16 +24,3 @@ systemctl status ssh
 ```
 
 ---
-
-# 🌐 4. servicios.md
-
-```markdown
-# 🌐 Servicios instalados
-
-## 🖥️ Servidor web
-
-```bash
-sudo apt install apache2
-```
-Comprobar en navegador:
-http://IP_DEL_SERVIDOR
