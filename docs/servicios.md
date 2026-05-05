@@ -1,6 +1,3 @@
-servicios
-
-```markdown
 # 🌐 Servicios instalados
 
 ## 🖥️ Servidor web
