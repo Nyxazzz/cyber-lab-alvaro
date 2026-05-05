@@ -12,3 +12,8 @@ http://IP_DEL_SERVIDOR
 Instalación:
 ```bash
 git clone https://github.com/digininja/DVWA.git
+```
+### Configuracion Inicial
+Usuario: Admin
+Contraseña: password
+Puerto: 22
