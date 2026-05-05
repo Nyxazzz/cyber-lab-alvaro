@@ -35,14 +35,3 @@ Ver: docs/instalacion-servidor.md
 
 Ver: docs/servicios.md
 
----
-
-## 💀 Ataques realizados
-
-Ver: docs/ataque.md
-
----
-
-## 🛡️ Medidas defensivas
-
-Ver: docs/defensa.md
